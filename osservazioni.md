@@ -28,7 +28,7 @@ Quali file ho incluso nel commit e perché: abbiamo incluso hello.c e osservazio
 
 Come ho verificato che la versione provata sia presente su GitHub: abbiamo controllato la cronologia nel repository
 
-Che cosa ho osservato prima e dopo `git pull`, e perché non serve un nuovo clone:
+Che cosa ho osservato prima e dopo `git pull`, e perché non serve un nuovo clone: prima del pull le modifiche fatte su github non erano visibile sulla copia locale, dopo le modifiche fatte su github sono state copiate sul file locale, non serve un nuvo clone perché stiamo di volta in volta esportando le modifiche fatte.
 
 ## Step 2 — Eco: prima prova
 
