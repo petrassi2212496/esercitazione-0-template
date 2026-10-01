@@ -2,26 +2,25 @@
 
 Gruppo:
 
-Componenti (nome, cognome e username GitHub di entrambi):
+Componenti (nome, cognome e username GitHub di entrambi): Vittoria Petrassi petrassi2212496, Chiara Luce Masci masci2271682
 
-URL del repository condiviso:
+URL del repository condiviso: https://github.com/petrassi2212496/esercitazione-0-template.git
 
-Chi ha usato la tastiera nello step 1 e nello step 2:
+Chi ha usato la tastiera nello step 1 e nello step 2: Ci siamo alternate.
 
-Compilate insieme le osservazioni e discutete le risposte: entrambi dovete
-saper spiegare le prove svolte.
+Compilate insieme le osservazioni e discutete le risposte: entrambi dovete saper spiegare le prove svolte.
 
-## Step 1 — Hello World: compilazione ed esecuzione
+## Step 1 - Hello World: compilazione ed esecuzione
 
-Comando di compilazione:
+Comando di compilazione: gcc -std=c17 -Wall -Wextra -Wpedantic hello.c -o hello
 
-Comando di esecuzione e risultato osservato:
+Comando di esecuzione e risultato osservato: ./hello
 
-Che cosa ho capito su sorgente ed eseguibile:
+Che cosa ho capito su sorgente ed eseguibile: Il sorgente è il codice scritto a mano, una volta compilato si crea l'eseguibile in linguaggio macchina.
 
-Output richiesto e comportamento del programma prima della modifica:
+Output richiesto e comportamento del programma prima della modifica: Ci è stato richiesto di stampare "Hello computational physics", prima delle modifiche l'eseguibile non restituiva nulla sul terminale.
 
-Esito dopo la modifica e spiegazione della correzione:
+Esito dopo la modifica e spiegazione della correzione: Aggiungendo un printf e ricompilando l'eseguibile restituisce su terminale la frase richiesta, stampandola e andando a capo.
 
 ## Step 1 — Git
 
