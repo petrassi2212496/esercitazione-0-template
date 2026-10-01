@@ -23,7 +23,6 @@ Output richiesto e comportamento del programma prima della modifica: Ci è stato
 Esito dopo la modifica e spiegazione della correzione: Aggiungendo un printf e ricompilando l'eseguibile restituisce su terminale la frase richiesta, stampandola e andando a capo.
 
 ## Step 1 — Git
-(Verifica della modifica e commit change) 
 Quali file ho incluso nel commit e perché: abbiamo incluso hello.c e osservazioni.md perché sono i due file sorgente modificati durante l'esercitazione.
 
 Come ho verificato che la versione provata sia presente su GitHub: abbiamo controllato la cronologia nel repository
