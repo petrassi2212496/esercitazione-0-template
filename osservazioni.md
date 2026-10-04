@@ -1,7 +1,5 @@
 # Osservazioni — Esercitazione 0
 
-MODIFICA DA GITHUB
-
 Gruppo: group-44ebd5030990d022-6
 
 Componenti (nome, cognome e username GitHub di entrambi): Vittoria Petrassi petrassi2212496, Chiara Luce Masci masci2271682
