@@ -1,6 +1,6 @@
 # Osservazioni — Esercitazione 0
 
-Gruppo:
+Gruppo: group-44ebd5030990d022-6
 
 Componenti (nome, cognome e username GitHub di entrambi): Vittoria Petrassi petrassi2212496, Chiara Luce Masci masci2271682
 
@@ -14,7 +14,7 @@ Compilate insieme le osservazioni e discutete le risposte: entrambi dovete saper
 
 Comando di compilazione: gcc -std=c17 -Wall -Wextra -Wpedantic hello.c -o hello
 
-Comando di esecuzione e risultato osservato: ./hello
+Comando di esecuzione e risultato osservato: ./hello Viene eseguito l'eseguibile che stampa la frase contenuta nel printf su terminale.
 
 Che cosa ho capito su sorgente ed eseguibile: Il sorgente è il codice scritto a mano, una volta compilato si crea l'eseguibile in linguaggio macchina.
 
