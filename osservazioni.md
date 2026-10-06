@@ -32,9 +32,11 @@ Che cosa ho osservato prima e dopo `git pull`, e perché non serve un nuovo clon
 
 ## Step 2 — Eco: prima prova
 
-Argomenti passati, comando e risultato:
+Argomenti passati, comando e risultato: una stringa, un intero e un reale attraverso il comando ./eco TESTO INTERO REALE con stampa dei valori inseriti su terminale.
 
-Che cosa posso concludere:
+Che cosa posso concludere: Si possono passare argomenti di diverso tipo a un eseguibile e fare una conversione.
+
+eco.txt contiene nel primo caso i valori inseriti, nel secondo il secondo valore viene stampato come 0 perché si aspettava un intero e invece è stata inserita una stringa. ">" redirige l'output dell'eseguibile su un file txt.
 
 ## Step 2 — Eco: seconda prova
 
